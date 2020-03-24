@@ -1,0 +1,66 @@
+html {
+	background-color: #e0e0e0;
+}
+
+/*------------------------------------------HEADER---------------------------------------------------*/
+header {
+	/*background-color: #e0e0e0;*/
+	background-image:url('../img/fon.png');
+	/*margin-top: 10px;*/
+}
+
+header .row {
+	border-radius: 7px;
+
+}
+
+.col-sm-3 {
+	background-color: rgba(0, 0, 0, 0.8);
+	height: 50px;
+	text-align: center;
+	margin: -1px;
+	border-radius: 5px;
+	position: relative;
+}
+
+.col-sm-3 a {	
+	color:  #FFFFFF;
+	font-weight: bold;
+	line-height: 50px;
+}
+
+.col-sm-3:hover {
+	background-color: #ff3f40;
+}
+
+.col-sm-3 a:hover {
+	color:  #FFFFD9;
+}
+/*----------------------------------------MAIN-----------------------------------------------*/
+
+main .col-sm-6 {
+	margin-top: 10px;
+}
+
+.min-1 {
+	margin-top: 10px;
+}
+/*--------------------------------------SLAID--------------------------------------------------*/
+.slaid {
+	margin-top: 20px;
+}
+/*--------------------------------------FOOTER----------------------------------------------*/
+footer {
+	background-color: rgba(0, 0, 0, 0.8);
+}
+
+footer img {
+	margin-top: 15px;
+	width: 40px;
+	height: 40px;
+}
+
+.silka {
+	margin-top: 20px;
+	text-align: right;
+}
